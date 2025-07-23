@@ -1,6 +1,5 @@
 # Chat-Application
 
-/*
 1. Prerequisites:
    - Node.js, npm
    - MongoDB installed locally
@@ -34,4 +33,3 @@
    - Real-time chat using Socket.IO
    - Messages stored in MongoDB
    - Simple UI for chat
-*/
